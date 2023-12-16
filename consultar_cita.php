@@ -22,7 +22,7 @@
 			
 			<br>
 			<input type="submit" name="Registrar" value="Consultar"  class="my">
-			<a href="indexx.php"><input type="button" name="Registrar" value="Cancelar"  class="my"></a>
+			<a href="baseh.php"><input type="button" name="Registrar" value="Cancelar"  class="my"></a>
 
 		</form>
 		<br><br>
